@@ -21,15 +21,15 @@ function love.conf(t)
     -- t.window.icon = "./img/logo.png"
 
     -- window size
-    t.window.width = 600
-    t.window.height = 450
+    -- t.window.width = 600
+    -- t.window.height = 450
 
     -- window resizable
     t.window.resizable = true
 
     -- minimum window size
-    t.window.minwidth = 600
-    t.window.minheight = 450
+    -- t.window.minwidth = 600
+    -- t.window.minheight = 450
 
     -- remove the window border
     -- t.window.borderless = true
